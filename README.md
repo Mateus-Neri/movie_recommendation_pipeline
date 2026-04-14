@@ -67,7 +67,7 @@ Camada onde os dados são preparados para modelagem.
 
 **Função:**
 - Criar features relevantes
-- Combinar informações (ex: título + gênero + sinopse)
+- Combinar informações (ex: sinopse + gênero + palavras-chave)
 - Preparar dados para entrada no modelo
 
 ---
